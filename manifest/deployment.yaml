@@ -1,0 +1,21 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+    name: withastro-github-comment-templates
+    namespace: withastro-github-comment-templates
+    labels:
+        app: withastro-github-comment-templates
+spec:
+    replicas: 3
+    selector:
+        matchLabels:
+            app: withastro-github-comment-templates
+    template:
+        metadata:
+            labels:
+                app: withastro-github-comment-templates
+        spec:
+            containers:
+                - name: withastro-github-comment-templates
+                  image: "trueberryless/withastro-github-comment-templates:main-3c0d0e5f2393c5a09089851ec7b601d5077f128e"
+                  imagePullPolicy: Always
