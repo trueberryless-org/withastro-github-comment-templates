@@ -9,20 +9,20 @@ We are happy to help with guidance on PRs, technical writing, and turning any fe
 
 ## Reference to Starlight Framework
 
-This document focuses on contributing only to the content of Withastro Github Comment Tempates itself, not the styling, the coding or any UX concerns. Because Withastro Github Comment Tempates is built with [Starlight](https://starlight.astro.build/), we recommend checking out [Starlight’s Contributor Manual](https://github.com/withastro/starlight/blob/main/CONTRIBUTING.md) for all framework related contributions!
+This document focuses on contributing only to the content of Withastro Github Comment Templates itself, not the styling, the coding or any UX concerns. Because Withastro Github Comment Templates is built with [Starlight](https://starlight.astro.build/), we recommend checking out [Starlight’s Contributor Manual](https://github.com/withastro/starlight/blob/main/CONTRIBUTING.md) for all framework related contributions!
 
 ## Types of contributions
 
-There are lots of ways to contribute to Withastro Github Comment Tempates.
+There are lots of ways to contribute to Withastro Github Comment Templates.
 
-Maintaining Withastro Github Comment Tempates requires writing new content, fixing existing typos and addressing accessibility.
+Maintaining Withastro Github Comment Templates requires writing new content, fixing existing typos and addressing accessibility.
 Help writing docs, catching typos and errors, as well as translating docs into other languages is always welcome.
 
 You can also get involved by leaving feedback on [issues][issues] or reviewing [pull requests][pulls] by other contributors.
 
 We encourage you to:
 
--   [**Open an issue**][new-issue] to let us know of bugs in Withastro Github Comment Tempates, documentation you found unclear, or other issues you run into.
+-   [**Open an issue**][new-issue] to let us know of bugs in Withastro Github Comment Templates, documentation you found unclear, or other issues you run into.
 
 -   [**Look at existing issues**][issues] (especially those labelled [“good first issue”][gfi]) to find ways to contribute.
 
@@ -31,7 +31,7 @@ We encourage you to:
 
 -   [**Review existing PRs**][pulls] to help us merge contributions sooner.
 
--   [**Add or update translations**](#translations). We need help translating Withastro Github Comment Tempates’ documentation.
+-   [**Add or update translations**](#translations). We need help translating Withastro Github Comment Templates’ documentation.
 
 Anyone can contribute to this repository. You can contribute by creating new content, fixing typos or errors in the meaning of the content.
 
