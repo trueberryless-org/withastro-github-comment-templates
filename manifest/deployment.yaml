@@ -17,5 +17,5 @@ spec:
     spec:
       containers:
         - name: withastro-github-comment-templates
-          image: "trueberryless/withastro-github-comment-templates:main-5612b5a94505f7477d918878de27ca6c39f94ba6"
+          image: "trueberryless/withastro-github-comment-templates:main-dcdebd1908178224db53ab99f82047202f44bd0a"
           imagePullPolicy: Always
