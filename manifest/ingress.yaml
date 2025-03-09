@@ -1,22 +1,22 @@
 apiVersion: networking.k8s.io/v1
 kind: Ingress
 metadata:
-    name: withastro-github-comment-templates
-    namespace: withastro-github-comment-templates
+  name: withastro-github-comment-templates
+  namespace: withastro-github-comment-templates
 spec:
-    rules:
-        - host: withastro-github-comment-templates.trueberryless.org
-          http:
-              paths:
-                  - path: /
-                    pathType: Prefix
-                    backend:
-                        service:
-                            name: withastro-github-comment-templates
-                            port:
-                                number: 80
+  rules:
+    - host: withastro-github-comment-templates.trueberryless.org
+      http:
+        paths:
+          - path: /
+            pathType: Prefix
+            backend:
+              service:
+                name: withastro-github-comment-templates
+                port:
+                  number: 80
 
-    tls:
-        - hosts:
-              - withastro-github-comment-templates.trueberryless.org
-          secretName: withastro-github-comment-templates
+  tls:
+    - hosts:
+        - withastro-github-comment-templates.trueberryless.org
+      secretName: withastro-github-comment-templates
